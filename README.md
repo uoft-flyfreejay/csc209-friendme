@@ -1,2 +1,3 @@
 # csc209-winter2023
-A repository that displays some of my work in CSC209
+My friendme program written for course CSC209 in winter 2023.
+This is a chatting program which allows the users to chat with another asynchronously using sockets.
